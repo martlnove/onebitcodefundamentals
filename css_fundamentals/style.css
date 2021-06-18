@@ -1,0 +1,12 @@
+h1 {
+    color: blueviolet;
+    border: 3px dashed yellow;
+}
+.moon{
+    color: orange;
+}
+body{
+    background-image: url("https://icdn.digitaltrends.com/image/digitaltrends/falcon-heavy-test-flight-spacex-flickr-1221-1500x1000.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
