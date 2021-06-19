@@ -6,13 +6,14 @@ h1{
     color: #FFFFFF;
 }
 
-div h3{
+h3{
     color:#f1c40f;
 }
 
-div h2{
+h2{
     color: #2c3e50;
     background:#f1c40f;
+    border: 2px solid;
 }
 
 li {
